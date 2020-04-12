@@ -2,7 +2,7 @@
 name: Fokusregel 1
 about: Regel + Regelwerk, Seiten, Regelwiki Link
 title: ''
-labels: ''
+labels: Fokusregel 1
 assignees: nilsriesenberg
 
 ---
